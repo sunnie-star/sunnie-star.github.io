@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
      <td width="25%">
-      <img src="/zhenjianzhao.jpg" width="100%">      
+      <img src="/zhenjianzhao.jpg" width="50%">      
     </td>
     <td width="75%">
       <h1>Sun Lin(孙琳)</h1>
