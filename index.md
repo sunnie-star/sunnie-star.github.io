@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
      <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhenjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
     <td width="75%">
       <h1>Sun Lin(孙琳)</h1>
@@ -10,6 +10,7 @@
     </td> 
   </tr>
 </table>
+
 ## Biography
 
 My name is Sun Lin. I am a postgraduate student in the department of computer science, Nanjing University. I am supervised by Associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
