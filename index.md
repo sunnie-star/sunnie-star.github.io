@@ -1,4 +1,4 @@
-## Sun Lin（孙琳）
+## Lin Sun（孙琳）
 <div id="layout-content">
 <div id="toptitle">
 <table class="imgtable"><tr><td>
