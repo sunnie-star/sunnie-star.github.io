@@ -1,10 +1,15 @@
-## Sun Lin (孙琳)
-<table class="imgtable"><tr><td>
-<a href="https://xuaikun.github.io/"><img src="/zhenjianzhao.jpg" alt="alt text" width="120px" /></a>&nbsp;</td>
-<td align="left"><p>Department of Computer Science,<br />
-Nanjing University, <br />
-JiangSu, China <br />
-</td></tr></table>
+<table border="0">
+  <tr>
+     <td width="25%">
+      <img src="/zhenjianzhao.jpg" width="50%">      
+    </td>
+    <td width="75%">
+      <h1>Sun Lin（孙琳）</h1>
+      <p>Department of Computer Science,</p>
+      <p>Nanjing University</p>
+    </td> 
+  </tr>
+</table>
 
 ## Biography
 
