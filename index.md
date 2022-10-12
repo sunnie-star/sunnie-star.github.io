@@ -1,9 +1,10 @@
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>孙琳 (Lin Sun)</title>
-</head>
+
+
+
+
+## Sun Lin（孙琳）
+Department of Computer Science,
+Nanjing University
 
 ## Biography
 
