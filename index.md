@@ -1,7 +1,5 @@
-<h1>Sun Lin（孙琳）</h1>
-<td width="25%">
-    <img src="/zhenjianzhao.jpg" width="5%">      
-</td>
+## Sun Lin（孙琳）
+<img src="/zhenjianzhao.jpg" width="5%">      
 <p>Department of Computer Science,</p>
 <p>Nanjing University</p>
 
