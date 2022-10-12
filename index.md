@@ -7,7 +7,7 @@
       <h1>Lin Sun（孙琳）</h1>
       <p>Department of Computer Science,</p>
       <p>Nanjing University,</p>
-      <p>JiangSu,China</p>
+      <p>JiangSu, China</p>
     </td> 
   </tr>
 </table>
