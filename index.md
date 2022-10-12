@@ -1,8 +1,14 @@
-## Sun Lin（孙琳）
-<img src="/zhenjianzhao.jpg" width="20%">      
-<p>Department of Computer Science,</p>
-<p>Nanjing University</p>
 
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>徐爱昆 (Aikun Xu)</title>
+</head>
+
+## Sun Lin（孙琳）
+<div id="layout-content">
+<div id="toptitle">
 <table class="imgtable"><tr><td>
 <a href="https://xuaikun.github.io/"><img src="/zhenjianzhao.jpg" alt="alt text" width="120px" /></a>&nbsp;</td>
 <td align="left"><p>Department of Computer Science,<br />
