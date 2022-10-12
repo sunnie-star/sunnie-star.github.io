@@ -1,5 +1,5 @@
 ## Sun Lin（孙琳）
-<img src="/zhenjianzhao.jpg" width="5%">      
+<img src="/zhenjianzhao.jpg" width="20%">      
 <p>Department of Computer Science,</p>
 <p>Nanjing University</p>
 
