@@ -1,9 +1,11 @@
 <h1>Sun Lin（孙琳）</h1>
 <td width="25%">
-    <img src="/zhenjianzhao.jpg" width="50%">      
+    <img src="/zhenjianzhao.jpg" width="5%">      
 </td>
 <p>Department of Computer Science,</p>
 <p>Nanjing University</p>
+
+
 ## Biography
 
 My name is Sun Lin. I am a postgraduate student in the department of computer science, Nanjing University. I am supervised by Associate Professor [Haipeng Dai](https://cs.nju.edu.cn/daihp/).
