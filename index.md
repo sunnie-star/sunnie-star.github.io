@@ -1,11 +1,3 @@
-
-<head>
-<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
-<link rel="stylesheet" href="jemdoc.css" type="text/css" />
-<title>徐爱昆 (Aikun Xu)</title>
-</head>
-
 ## Sun Lin（孙琳）
 <div id="layout-content">
 <div id="toptitle">
