@@ -4,7 +4,7 @@
       <img src="/zhenjianzhao.jpg" width="50%">      
     </td>
     <td width="75%">
-      <h1>Sun Lin（孙琳）</h1>
+      <h1>Lin Sun（孙琳）</h1>
       <p>Department of Computer Science,</p>
       <p>Nanjing University</p>
     </td> 
